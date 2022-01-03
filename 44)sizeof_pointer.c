@@ -4,5 +4,6 @@ main()
 {
 	int *p;
 	float *f;
-	printf("%d\n%d",sizeof(p),sizeof(f));
+	char *c
+	printf("%d\n%d\n%d",sizeof(p),sizeof(f),sizeof(c));
 }
